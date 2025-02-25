@@ -893,6 +893,10 @@ video {
     font-size: 45px;
   }
 
+  .md\:text-\[25px\] {
+    font-size: 25px;
+  }
+
   .md\:leading-\[100px\] {
     line-height: 100px;
   }
